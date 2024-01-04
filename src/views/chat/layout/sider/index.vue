@@ -96,8 +96,8 @@ watch(
         <div class="flex-1 min-h-0 pb-4 overflow-hidden">
           <List />
         </div>
-				 <div class="p-4">
-				<NAlert>
+				 <div class="flex-1">
+				<NAlert type="success">
 					hahah
 				</NAlert>
 					 </div>
