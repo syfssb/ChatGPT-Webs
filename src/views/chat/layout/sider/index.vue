@@ -96,9 +96,11 @@ watch(
         <div class="flex-1 min-h-0 pb-4 overflow-hidden">
           <List />
         </div>
+				 <div class="p-4">
 				<NAlert>
 					hahah
 				</NAlert>
+					 </div>
         <div class="flex items-center p-4 space-x-4">
           <div class="flex-1">
             <NButton block @click="show = true">
