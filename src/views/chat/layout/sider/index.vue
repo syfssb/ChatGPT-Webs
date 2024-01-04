@@ -107,14 +107,7 @@ watch(
           >
             🍒🫖 樱桃茶 GPT
           </a>的免费体验站。本站功能相对简单粗暴，随来随用，希望大家喜欢。后台使用的是 GPT-4 模型。由于人数可能很多，也许会出现卡顿的情况。更多 OpenAI 最新的模型、更平滑、流畅、稳定、定制化的功能请去主站体验。
-          <a
-            class="text-blue-600 dark:text-blue-500"
-            href="https://new.cherrychat.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            樱桃茶 GPT
-          </a><br>
+        <br>
 							🐧QQ VIP交流群：694177779
             </NAlert>
         </div>
