@@ -46,7 +46,7 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-  此站为我们主站
+  土土金GPT为主站
   <a
     class="text-blue-600 dark:text-blue-500"
     href="https://new.cherrychat.org"
