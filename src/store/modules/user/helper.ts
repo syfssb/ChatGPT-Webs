@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://gpt.cherrychat.org/avatar/static/avatar_1.jpg',
       name: '樱桃茶',
-      description: '更多功能请去主站 <a href="https:// new.cherrychat.org" class="text-blue-500" target="_blank" >樱桃茶GPT</a>',
+      description: '更多功能请去主站 <a href="https://new.cherrychat.org" class="text-blue-500" target="_blank" >樱桃茶GPT</a>',
     },
   }
 }
