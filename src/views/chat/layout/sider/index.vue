@@ -1,7 +1,7 @@
 <script setup lang='ts'>
 import type { CSSProperties } from 'vue'
 import { computed, ref, watch } from 'vue'
-import { Nalert,NButton, NLayoutSider, useDialog } from 'naive-ui'
+import { NAlert,NButton, NLayoutSider, useDialog } from 'naive-ui'
 import List from './List.vue'
 import Footer from './Footer.vue'
 import { useAppStore, useChatStore } from '@/store'
@@ -96,9 +96,9 @@ watch(
         <div class="flex-1 min-h-0 pb-4 overflow-hidden">
           <List />
         </div>
-				<Nalert>
+				<NAlert>
 					hahah
-				</Nalert>
+				</NAlert>
         <div class="flex items-center p-4 space-x-4">
           <div class="flex-1">
             <NButton block @click="show = true">
