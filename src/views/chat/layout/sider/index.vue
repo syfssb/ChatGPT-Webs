@@ -96,7 +96,7 @@ watch(
         <div class="flex-1 min-h-0 pb-4 overflow-hidden">
           <List />
         </div>
-				 <div class="flex-1">
+				 <div class="flex items-center p-4">
 				<NAlert type="success">
 					hahah
 				</NAlert>
