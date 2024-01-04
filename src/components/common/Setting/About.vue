@@ -46,19 +46,28 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          {{ $t("setting.openSource") }}
-          <a
-            class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/Chanzhaoyu/chatgpt-web"
-            target="_blank"
-          >
-            GitHub
-          </a>
-          {{ $t("setting.freeMIT") }}
-        </p>
-        <p>
-          {{ $t("setting.stars") }}
-        </p>
+  此站为我们主站
+  <a
+    class="text-blue-600 dark:text-blue-500"
+    href="https://new.cherrychat.org"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    樱桃茶 GPT
+  </a>的免费体验站。本站界面简洁，易于操作，我们希望大家喜欢。后台采用了GPT-4模型。由于访问量可能较大，可能会偶尔出现延迟。想要体验OpenAI最新模型的更流畅、稳定和个性化功能，请访问我们的主站
+  <a
+    class="text-blue-600 dark:text-blue-500"
+    href="https://new.cherrychat.org"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    樱桃茶 GPT
+  </a>。
+</p>
+<p>
+  加入樱桃茶 VIP QQ 群：694177779，群内每日随机赠送10万token对话币，所有成员享受套餐六折优惠。🔥限时特惠：600元全年GPT-4无限使用套餐！
+</p>
+
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
       <p v-if="isChatGPTAPI">
