@@ -97,7 +97,7 @@ watch(
           <List />
         </div>
 			   <div class="mx-4"> <!-- 添加了水平外边距 -->
-            <NAlert type="success" show-icon="false">
+            <NAlert type="success">
                 📎本站为主站
           <a
             class="text-blue-600 dark:text-blue-500"
