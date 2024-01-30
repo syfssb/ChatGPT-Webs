@@ -49,11 +49,11 @@ onMounted(() => {
   需要 api请来
   <a
     class="text-blue-600 dark:text-blue-500"
-    href="https://new.cherrychat.org"
+    href="https://api.tutujin.com"
     target="_blank"
     rel="noopener noreferrer"
   >
-    樱桃茶 api
+    土土金 api
   </a>
 </p>
 <p>
