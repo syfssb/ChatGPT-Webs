@@ -11,7 +11,7 @@ export interface UserInfo {
 export interface UserState {
   userInfo: UserInfo
 }
-
+//======================
 export function defaultSetting(): UserState {
   return {
     userInfo: {
