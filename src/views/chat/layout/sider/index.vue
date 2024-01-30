@@ -101,11 +101,11 @@ watch(
                 📎需要 api请来
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://ttt.cherrychat.org"
+            href="https://api.tutujin.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            🍒🫖 樱桃茶api
+            ⭐️土土金api
           </a>。本站功能相对简单粗暴，随来随用，希望大家喜欢。后台使用的是 Azure GPT-4 模型（每月 150$,每月 27 号重置额度 ）。由于人数可能很多，也许会出现卡顿或者被耗光的情况。更多 OpenAI 最新的模型、更平滑、流畅、稳定、定制化的功能请来我们的 api体验。
 							<br>需要 Azure GPT4订阅（150刀/月 全年 2000）可以找我，联系方式在我们 api主页
             </NAlert>
